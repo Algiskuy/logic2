@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+}
+header {
+  border: 1px solid;
+  display: flex;
+  justify-content: space-around;
+  background-image: url(/foto/d6.jpg);
+  color: white;
+  font-size: 16.5px;
+  font-weight: bolder;
+  text-shadow: 2px 2px 2px black;
+}
